@@ -1,4 +1,4 @@
-# Assignment Small Database2 
+# Assignment 2 Small Database
 
 Students are asked to mimic a small database. Assume that a company want to store data in integer form.
 You need to write a data structure to maintain numbers that provide the following operations: 
