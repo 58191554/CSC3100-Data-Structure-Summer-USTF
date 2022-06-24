@@ -11,7 +11,7 @@ You need to write a data structure to maintain numbers that provide the followin
 We highly recommend you to use a self-balance tree to implememt this assignment because we will set strict time constraint.
 **Input Format**
 
-The first line is a number $n$, representing how many number.From the second to the last line, each line has two number $opt$ and $x$ .$opt$representing$(1≤opt≤6)$。
+The first line is a number $n$, representing how many number.From the second to the last line, each line has two number $opt$ and $x$ .$opt$ representing $(1≤opt≤6)$。
 
 **Output Format**
 
