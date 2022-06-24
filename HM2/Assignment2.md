@@ -8,7 +8,8 @@ You need to write a data structure to maintain numbers that provide the followin
 4. Find the number rank x (the x smallest element).
 5. Find the largest number less than x
 6. Find the smallest number bigger than x
-We highly recommend you to use a self-balance tree to implememt this assignment because we will set strict time constraint.
+We highly recommend you to use a self-balance tree to implememt this assignment because we will set strict time constraint.   
+
 **Input Format**
 
 The first line is a number $n$, representing how many number.From the second to the last line, each line has two number $opt$ and $x$ .$opt$ representing $(1≤opt≤6)$。
