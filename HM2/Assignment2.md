@@ -12,7 +12,7 @@ We highly recommend you to use a self-balance tree to implememt this assignment 
 
 **Input Format**
 
-The first line is a number $n$ , representing how many number.From the second to the last line, each line has two number $opt$ and $x$ .$opt$ representing $(1≤opt≤6)$。
+The first line is a number $n$ , representing how many insturction line below. From the second to the last line, each line has two number $opt$ and $x$ .$opt$ representing $(1≤opt≤6)$。
 
 **Output Format**
 
